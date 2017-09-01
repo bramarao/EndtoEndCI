@@ -10,5 +10,4 @@ script:
 
 after_success:
   - sh .travis/deploy_dockerhub.sh
-v
 
